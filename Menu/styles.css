@@ -8,8 +8,8 @@
 
 body {
   font-family: Poppins, Arial, sans-serif;
-  background-color: hsl(225, 6%, 9%);
   color: #d4dbe4;
+  background-image: url(../Menu/assets/menu_bg.webp);
 }
 
 a {
